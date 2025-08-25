@@ -8,6 +8,7 @@ background-color: rgb(225, 0, 255);
 #container
 {
 width: 400px;
+height: 500px;
 margin: 0 auto;
 background-color: rgb(255, 47, 0);
 }
