@@ -1,3 +1,9 @@
-<h3>Hello website</h3>
-<p>How are you?</p>
-<img src="img/p153.jpg">
+<!DOCTYPE html>
+<html>
+<body style="background-color:powderblue;">
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
